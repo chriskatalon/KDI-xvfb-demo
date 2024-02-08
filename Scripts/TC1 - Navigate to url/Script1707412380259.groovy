@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('nhuaquankiet.com')
+WebUI.navigateToUrl('https://google.com')
 
 WebUI.delay(5)
 
